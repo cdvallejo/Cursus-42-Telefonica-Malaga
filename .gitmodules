@@ -17,7 +17,7 @@
 	path = Fractol
 	url = https://github.com/cdvallejo/42-fractol
 [submodule "Exams"]
-  path = Exams
+  	path = Exams
 	url = https://github.com/cdvallejo/42-exams
   
 
